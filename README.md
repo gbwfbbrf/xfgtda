@@ -2,7 +2,7 @@
 
 访问
 
-sdbn dnn.herokuapp.com/v2link/index.html
+xxx.herokuapp.com/v2link/index.html
 
 或
 
